@@ -1,0 +1,2 @@
+# ostap-jaiko
+darova bogdan
