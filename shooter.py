@@ -15,9 +15,9 @@ img_asteroid = "asteroid.png"
 
 lost = 0
 score = 0
-max_lost = 3
-goal = 10
-life = 3
+max_lost = 5
+goal = 15
+life = 5
 
 font.init()
 font1 = font.SysFont("Arial", 80)
